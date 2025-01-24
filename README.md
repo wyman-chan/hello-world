@@ -1,3 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
-I am a Master's student at SDSU.
+### Hello World
+**this is a test for 668**
+> my favorite animal is a rhino
